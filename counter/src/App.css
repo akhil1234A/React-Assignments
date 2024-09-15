@@ -1,0 +1,38 @@
+.counter{
+  margin: 0 auto;
+  width:50%;
+
+}
+
+.counter h1{
+  text-align: center;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center; 
+}
+
+.counter button {
+  padding:10px;
+  margin:5px;
+}
+
+.loading{
+  color:green;
+}
+
+.error{
+  color:red;
+}
+
+.profile_card{
+  background-color: blue;
+  width:50%;
+  padding:20px;
+  text-align: center;
+  margin: 0 auto;
+  color:white;
+  margin-top: 10px;
+}
+
